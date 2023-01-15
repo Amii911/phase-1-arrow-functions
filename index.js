@@ -1,0 +1,1 @@
+const divide = (square, add) => [suqare^, add^]
